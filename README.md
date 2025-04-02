@@ -13,6 +13,7 @@ rm -rf .git
 ```
 3.Done
 
-## Preview
+## Preview 
 ![Preview](preview/2025-02-20-095949_hyprshot.png)
 ![Preview](preview/2025-02-19-211741_hyprshot.png)
+Screenshot ini diambil bulan februari tahun 2025. jika ingin menggunakan tema yang sama dengan preview ini, silahkan clone branch 25-02.
